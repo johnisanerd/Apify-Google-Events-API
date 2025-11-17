@@ -1,0 +1,10 @@
+[project]
+name = "apify-google-events-api"
+version = "0.1.0"
+description = "Google Events API - Access Google Events Using Python"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "apify-client>=2.3.0",
+    "python-dotenv>=1.2.1",
+]
