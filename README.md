@@ -397,4 +397,4 @@ Start using Google Events API today and transform public event listings into act
 
 *Transform your event search automation with the most reliable and feature-rich Google Events scraper on Apify.*
 
-Last Updated: 2025.11.17
+Last Updated: 2026.05.29
