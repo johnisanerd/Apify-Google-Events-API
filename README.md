@@ -313,4 +313,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Events API to power event discovery, calendars, and market research with reliable, structured results.*
 
-Last Updated: 2026.05.29
+Last Updated: 2026.05.30
